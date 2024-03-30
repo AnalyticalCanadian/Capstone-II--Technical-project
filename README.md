@@ -8,6 +8,10 @@ The objectives of this presentation are to demonstrate the application of regres
 ----------
 The current state of technology in the domain involves traditional methods of pricing flights based on historical data, demand forecasting, and market trends.
 Challenges include the dynamic nature of flight prices influenced by various factors such as demand fluctuations, fuel costs, competition, and external events. However, these challenges also present opportunities for leveraging advanced analytical techniques to improve price prediction accuracy.
+## Presentation Candidate **
+## Name: Mayank Balani
+Education: Business Intelligence & Data Analytics from NSCC
+Proficient in Power BI, SQL, Python, SSMS, Excel.
 
 ### Sample Data Selection **
 -----------
@@ -24,7 +28,7 @@ Model selection: Will choose appropriate regression models.
 Training the model: Train selected regression models on the training data.
 The expected outcome is to build regression models that accurately predict flight prices, which can assist airlines in dynamic pricing strategies, revenue optimization, and providing customers with competitive fares.
 
-### Conclusion** 
--------------
+### Conclusion ** 
+----------
 Through this presentation, we aim to demonstrate the application of regression analysis in predicting flight prices, highlighting its significance in the airline industry and potential benefits for stakeholders.
 Encourage the audience to explore and implement regression analysis techniques in their respective domains for data-driven decision-making and improved business outcomes.
